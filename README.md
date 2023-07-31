@@ -17,7 +17,3 @@
 ## BÁO CÁO
 
 * [PDF](https://drive.google.com/file/d/1IhVK_VXau1CwKACczxK-8TKc4TpJ2ALI/view?usp=sharing)
-
-commit main 123
-
-NGK ahaha
